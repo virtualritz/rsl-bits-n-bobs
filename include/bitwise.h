@@ -135,7 +135,7 @@ float not( int a )
 
 float and( int a, b )
 {
-    return 0.5 * (( a + b ) - xor( a, b ) );
+    return 0.5 * ( ( a + b ) - xor( a, b ) );
 }
 
 
