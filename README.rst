@@ -1,5 +1,5 @@
 #######################################
-RenderMan Shading Language Bits 'n Bobs
+RenderMan Shading Language Bits ’n Bobs
 #######################################
 
 This repository contains various useful RenderMan SL headers and code
